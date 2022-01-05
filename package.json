@@ -1,0 +1,8 @@
+{
+  "name": "paginaInicialInstagram",
+  "version": "1.0.0",
+  "description": "pagina de inicio do instagram",
+  "main": "index.js",
+  "author": "Anderson silva",
+  "license": "MIT"
+}
